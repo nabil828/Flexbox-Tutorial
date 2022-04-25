@@ -410,4 +410,4 @@ html,
 - Wide Screens
 ![alternate](https://cdn.discordapp.com/attachments/967913354582704228/968040239027351602/unknown.png)
 - Small screens
-![alternate](https://cdn.discordapp.com/attachments/967913354582704228/968040297508524073/unknown.png)
+![alternate](https://cdn.discordapp.com/attachments/967913354582704228/968040297508524073/unknown.png) 
